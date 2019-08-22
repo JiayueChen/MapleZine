@@ -1,2 +1,2 @@
 # MapleZine
-![iphone view maplezine](images/iphone.png)
+![maplezine screenshot](screenshot.png)
